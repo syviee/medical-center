@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jquery.cookie">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MedicalCentre/web/javascript/jquery/external/cookie/jquery.cookie.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
